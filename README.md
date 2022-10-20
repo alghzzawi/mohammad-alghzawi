@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohammad alghzawi</h1>
 
-
-
 <h3 align="center">I am 22 years old, I graduate from LTUC, Department of ASAC with a mager of artificial intelligence engineer</h3>
 <h3 align="center"> I specialize in used react, bootstrap, heroku, netlify, node.js, mongoDB and mySQL. and the meta-skill I have is problem solving.</h3>
 <h3 align="center">I'm interested in learning backend, frontend, data structure and algorithm and Object-oriented programming. I'm learning and developing my skills.</h3>
