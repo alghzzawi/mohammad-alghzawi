@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **artificial intelligence**.
 
 - 📫 How to reach me **m.alghzawi22@gmail.com**
 
